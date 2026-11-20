@@ -1,7 +1,7 @@
 # SynthPad
 A custom MIDI keypad with 6 Kalih Choc switches, an EC11 Rotary Encoder, a Bourns slide potentiometer, capacitive touch keys, and a Waveshare ESP32-S3-ZERO! SynthPad was made as a submission for Hack Club's Half-Life Week 3 Challenge - Music Projects!
 
-## Renders
+## Renders & Schematic
 <img width="900" height="727" alt="Screenshot 2026-10-25 213244" src="https://github.com/user-attachments/assets/a7fbef26-eca1-4d3a-b9a5-1c3233a6e0ee" />
 
 <img width="905" height="807" alt="Screenshot 2026-10-25 213254" src="https://github.com/user-attachments/assets/27dc22e2-3d03-4332-bc3b-d353905cff4e" />
