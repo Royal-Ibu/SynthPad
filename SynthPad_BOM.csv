@@ -1,0 +1,6 @@
+Component,Quantity,Description,Part / model,Supplier,Product URL
+Kailh Choc switches,6,Low-profile mechanical key switches,Kailh Choc,AliExpress,https://www.aliexpress.us/item/3256811624147176.html
+EC11 rotary encoder,1,Incremental rotary encoder with integrated push-button,EC11,AliExpress,https://www.aliexpress.us/item/3256808424331150.html
+Bourns slide potentiometer,1,"10KΩ linear slide potentiometer, 45mm travel",PTA4543-2010CPB103,DigiKey,https://www.digikey.com/en/products/detail/bourns-inc/PTA4543-2010CPB103/3781199
+Waveshare ESP32-S3-ZERO,1,Main microcontroller board,ESP32-S3-ZERO,Waveshare,https://www.waveshare.com/esp32-s3-zero.htm?sku=25517
+1N4148 signal diodes,6,Switching diodes for the mechanical key inputs,1N4148,DigiKey,https://www.digikey.com/en/products/detail/onsemi/1N4148/458603
