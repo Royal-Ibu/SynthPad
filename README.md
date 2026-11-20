@@ -18,14 +18,13 @@ A custom MIDI keypad with 6 Kalih Choc switches, an EC11 Rotary Encoder, a Bourn
 - Waveshare ESP32-S3-ZERO: Handles the controller's inputs and will run the MIDI firmware.
 - Capacitive touch keys: Electronic touch pad switches for further inputs!
 
-## Bill of Materials (BOM)
-
+## Hardware and Bill of Materials
 
 | Component | Quantity | Description | Part / model |
 |---|---:|---|---|
-| Kailh Choc switches | 6 | Low-profile mechanical key switches | Exact variant TBD |
-| EC11 rotary encoder | 1 | Incremental rotary encoder with push-button input | Exact variant TBD |
-| Bourns slide potentiometer | 1 | Linear slide potentiometer for analog input | Exact part number TBD |
-| Waveshare ESP32-S3-ZERO | 1 | Main microcontroller board | ESP32-S3-ZERO |
-| 1N4148 Diodes | 6 | Through-hole diodes, one per switch | TBD |
+| [Kailh Choc switches](https://www.aliexpress.us/item/3256811624147176.html) | 6 | Low-profile mechanical key switches | Kailh Choc |
+| [EC11 rotary encoder](https://www.aliexpress.us/item/3256808424331150.html) | 1 | Incremental rotary encoder with integrated push-button | EC11 |
+| [Bourns slide potentiometer](https://www.digikey.com/en/products/detail/bourns-inc/PTA4543-2010CPB103/3781199) | 1 | 10KΩ linear slide potentiometer, 45mm travel | PTA4543-2010CPB103 |
+| [Waveshare ESP32-S3-ZERO](https://www.waveshare.com/esp32-s3-zero.htm?sku=25517) | 1 | Main microcontroller board | ESP32-S3-ZERO |
+| [1N4148 signal diodes](https://www.digikey.com/en/products/detail/onsemi/1N4148/458603) | 6 | Switching diodes for the mechanical key inputs | 1N4148 |
 
